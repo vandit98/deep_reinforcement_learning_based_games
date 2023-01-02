@@ -19,11 +19,14 @@ To run the code in this repository, you will need to install the following depen
 ## Usage
 
 To train an agent to play Game 1, navigate to the `game1/` directory and run the following command:
+```
 python train.py
+```
 
 To evaluate the trained agent, run:
+```
 python evaluate.py
-
+```
 You can repeat the above steps for the other games in the `game2/` and `game3/` directories.
 
 ## Contributions
